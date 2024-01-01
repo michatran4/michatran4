@@ -1,5 +1,5 @@
-# hi
-## skills
+# Welcome to my GitHub profile!
+## Skills
 ![](https://img.shields.io/badge/Arch_Linux-33AADD?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![](https://img.shields.io/badge/Debian_Linux-D70752?style=for-the-badge&logo=debian&logoColor=white)
 ![](https://img.shields.io/badge/Gentoo_Linux-4E4371?style=for-the-badge&logo=gentoo&logoColor=white)
